@@ -1,4 +1,5 @@
-# typerace
+# Typerace
+![Imgur](http://i.imgur.com/iKLvAcm.png)
 Space race game with starships moved by letters. Challenge your friends!
 
 # Made with:
